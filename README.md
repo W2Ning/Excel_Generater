@@ -1,7 +1,7 @@
 # Excel_Generater
 
 ```
-pip3 install xlwt  chinesecalendar
+python3 -m pip install xlwt  chinesecalendar
 ```
 ```
 python3 Excel_Generater.py
